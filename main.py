@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 
 # OpenWeatherMap API credentials
-API_KEY = "8cd26840af0b4be13177b22425654cbf"
+API_KEY = ""
 
 # Location for weather data (Chennai, India)
 LATITUDE = 13.0827
@@ -15,10 +15,10 @@ LONGITUDE = 80.2707
 BUCKET_NAME = "weather-alert-data-bucket"
 
 # Twilio API credentials
-TWILIO_ACCOUNT_SID = "AC53f642d38652002ed88162b8378bee60"
-TWILIO_AUTH_TOKEN = "4e3fd4ce29b03064ffdef7dbd174f4f8"
+TWILIO_ACCOUNT_SID = ""
+TWILIO_AUTH_TOKEN = ""
 TWILIO_WHATSAPP_NUMBER = "whatsapp:+14155238886"  # Twilio sandbox WhatsApp number
-USER_WHATSAPP_NUMBER = "whatsapp:+919677667794"
+USER_WHATSAPP_NUMBER = "whatsapp:+"
 
 def fetch_weather_data():
     """Fetch hourly weather data using OpenWeatherMap API."""
