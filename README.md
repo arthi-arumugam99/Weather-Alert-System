@@ -23,7 +23,7 @@ The **Automated Weather Alert System** is a cloud-based project that provides ho
    - Sends a WhatsApp notification with weather updates using the **Twilio API**.
 4. **Data Storage**: JSON files are archived in **Google Cloud Storage** for future analysis or monitoring.
 
-![diagram-export-25-11-2024-08_20_18](https://github.com/user-attachments/assets/a9403d53-2c17-427c-8a6a-03abc71b5458)
+![diagram-export-25-11-2024-08_54_45](https://github.com/user-attachments/assets/f23d3df7-48a6-4350-ae02-c704c4231f27)
 
 
 ## **Project Objectives**
